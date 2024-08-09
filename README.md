@@ -16,10 +16,12 @@ Race-race yg terdata:
 - Bali Ultra Trail (BUT)
 - Coast to Coast (CTC)
 - Dieng Caldera Run
+- Jabar Ultra (JBU)
 - Mantra116
 - Merbabu Sky Race (MSR)
 - MesaStila100
 - Rinjani100
+- Sindoro Sumbing Challenge (SSC)
 - Siksorogo Lawu Ultra (SLU)
 - Vertical Telomoyo
 
