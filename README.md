@@ -18,6 +18,7 @@ Race-race yg terdata:
 - Dieng Caldera Run
 - Jabar Ultra (JBU)
 - Mantra116
+- Merapi Merbabu De Trail (MMDT)
 - Merbabu Sky Race (MSR)
 - MesaStila100
 - Rinjani100
