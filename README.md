@@ -38,8 +38,8 @@ Event-event yg terdata:
 Enjoy dan fork/PR ya.
 ## 0 - 2 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [CTC](https://www.instagram.com/ctc.ultra/) | 5 | 30 |  | 0.6 / - |      |  |  |  |
 | [Bromo Mar](https://www.instagram.com/bromomarathon/) | 5 | 241 | 206 | 0.9 / 6.0 | 1 (0%) |  |  |  |
 | [MSR](https://www.instagram.com/merbabu_skyrace/) | 5 | 170 | 207 | 1.0 / 1.7 |      |  |  |  |
@@ -54,8 +54,8 @@ Enjoy dan fork/PR ya.
 
 ## 2 - 4 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [BUT](https://www.instagram.com/baliultratrail.official/) | 12 | 330 | 70 | 2.3 / 3.6 |      |  <img src="images/ITRA0.png" height="16"> | 3 | 170 |
 | [Mantra](https://www.instagram.com/mantra116.id/) | 10 | 620 | 311 | 2.4 / 4.5 | 59 (16%) |  <img src="images/ITRA0.png" height="16"> | 6 | 140 |
 | [Bromo Tgger](https://www.instagram.com/bromo.tenggertrailrun/) | 11 | 480 | 157 | 2.5 / 4.3 |      |  |  |  |
@@ -71,8 +71,8 @@ Enjoy dan fork/PR ya.
 
 ## 4 - 6 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [Bromo Tgger](https://www.instagram.com/bromo.tenggertrailrun/) | 21 | 1000 | 76 | 4.2 / 6.8 | 9 (11%) |  <img src="images/ITRA1.png" height="16"> <img src="images/UTMB20K.png" height="16"> | 5 | 190 |
 | [BTR](https://www.instagram.com/balitrailrunning/) | 15 | 973 | 681 | 4.5 / 7.0 | 22 (3%) |  <img src="images/UTMB20K.png" height="16"> |  |  |
 | [MMDT](https://www.instagram.com/merapi_merbabu.detrail/) | 10 | 1320 | 166 | 5.3 / 6.9 | 26 (14%) |  <img src="images/ITRA0.png" height="16"> <img src="images/UTMB20K.png" height="16"> | 12 | 140 |
@@ -84,8 +84,8 @@ Enjoy dan fork/PR ya.
 
 ## 6 - 8 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [BTR](https://www.instagram.com/balitrailrunning/) | 30 | 1340 | 302 | 6.1 / 9.0 | 10 (3%) |  <img src="images/ITRA1.png" height="16"> <img src="images/UTMB20K.png" height="16"> | 4 | 230 |
 | [CTC](https://www.instagram.com/ctc.ultra/) | 30 | 1040 | 245 | 6.5 / 7.0 |      |  <img src="images/ITRA0.png" height="16"> <img src="images/UTMB20K.png" height="16"> | 3 | 250 |
 | [UI Trail](https://www.instagram.com/uitrailrace/) | 20 | 1500 | 150 | 6.9 / 10.1 | 11 (7%) |  <img src="images/ITRA1.png" height="16"> | 7 | 150 |
@@ -102,8 +102,8 @@ Enjoy dan fork/PR ya.
 
 ## 8 - 12 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [Dieng Caldera](https://www.instagram.com/diengcalderarace/) | 42 | 2630 | 106 | 10.5 / 14.0 |      |  <img src="images/ITRA2.png" height="16"> <img src="images/UTMB50K.png" height="16"> | 7 | 260 |
 | [CTC](https://www.instagram.com/ctc.ultra/) | 50 | 1620 | 178 | 11.0 / 12.0 |      |  <img src="images/ITRA2.png" height="16"> <img src="images/UTMB50K.png" height="16"> | 3 | 290 |
 | [UI Trail](https://www.instagram.com/uitrailrace/) | 40 | 2400 | 38 | 11.8 / 15.2 | 11 (22%) |  <img src="images/ITRA2.png" height="16"> | 7 | 220 |
@@ -114,8 +114,8 @@ Enjoy dan fork/PR ya.
 
 ## 12 - 16 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [Mantra](https://www.instagram.com/mantra116.id/) | 38 | 2750 | 184 | 12.5 / 15.0 | 54 (23%) |  <img src="images/ITRA2.png" height="16"> <img src="images/UTMB50K.png" height="16"> | 9 | 220 |
 | [SSC](https://www.instagram.com/sindoro_sumbing_challenge/) | 35 | 4046 | 47 | 12.7 / 18.4 | 11 (19%) |  <img src="images/ITRA3.png" height="16"> | 12 | 180 |
 | [Rinjani100](https://www.instagram.com/rinjani100.official/) | 36 | 3179 | 322 | 12.8 / 15.0 | 118 (27%) |  <img src="images/ITRA2.png" height="16"> <img src="images/UTMB50K.png" height="16"> | 11 |  |
@@ -128,8 +128,8 @@ Enjoy dan fork/PR ya.
 
 ## 16 - 24 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [MSR](https://www.instagram.com/merbabu_skyrace/) | 40 | 4290 | 42 | 16.2 / 17.8 | 63 (60%) |  <img src="images/ITRA3.png" height="16"> <img src="images/UTMB50K.png" height="16"> | 12 |  |
 | [Dieng Caldera](https://www.instagram.com/diengcalderarace/) | 75 | 4850 | 30 | 17.2 / 23.6 |      |  <img src="images/ITRA4.png" height="16"> <img src="images/UTMB100K.png" height="16"> | 8 | 290 |
 | [BUT](https://www.instagram.com/baliultratrail.official/) | 80 | 4400 | 32 | 17.9 / 22.9 | 14 (30%) |  <img src="images/ITRA4.png" height="16"> <img src="images/UTMB100K.png" height="16"> |  | 300 |
@@ -145,8 +145,8 @@ Enjoy dan fork/PR ya.
 
 ## 24 - 100 jam
 
-| Event | Jarak | Eg (m) | Finishers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
-|-------|-------|--------|-----------|-----------------|------------|---------|---------|---------|
+| Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
+|-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
 | [Mantra](https://www.instagram.com/mantra116.id/) | 116 | 7400 | 59 | 29.8 / 33.3 | 51 (46%) |  <img src="images/ITRA5.png" height="16"> <img src="images/UTMB100M.png" height="16"> | 9 | 380 |
 | [Rinjani100](https://www.instagram.com/rinjani100.official/) | 100 | 9194 | 13 | 33.8 / 35.4 | 71 (85%) |  <img src="images/ITRA5.png" height="16"> <img src="images/UTMB100M.png" height="16"> | 12 | 350 |
 | [Rinjani100](https://www.instagram.com/rinjani100.official/) | 162 | 13646 | 6 | 52.0 / 54.4 | 27 (82%) |  <img src="images/ITRA6.png" height="16"> <img src="images/UTMB100M.png" height="16"> | 12 |  |
