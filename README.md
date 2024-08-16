@@ -17,22 +17,70 @@ selebriti (namanya engga disebut lengkap) biar mantau posisi aja hehe.
 
 Event-event yg terdata:
 
-- **Bali Trail Run** (BTR): tanggal 2024-05-12, 5 races (links: [homepage](https://balitrailrunning.com) |  [instagram](https://www.instagram.com/balitrailrunning/) | [ITRA](https://itra.run/Races/RaceDetails/89832/))
-- **Bali Ultra Trail** (BUT): tanggal 2024-08-03, 4 races (links: [homepage](https://baliultratrail.com) |  [instagram](https://www.instagram.com/baliultratrail.official/) | [ITRA](https://itra.run/Races/RaceDetails/86937/))
-- **Bromo Marathon** (Bromo Mar): tanggal 2023-09-03, 4 races (links: [homepage](https://bromomarathon.com) |  [instagram](https://www.instagram.com/bromomarathon/))
-- **Bromo Tengger Trail Run** (Bromo Tgger): tanggal 2024-07-28, 2 races (links:  [instagram](https://www.instagram.com/bromo.tenggertrailrun/) | [ITRA](https://itra.run/Races/RaceDetails/93006/))
-- **Coast to Coast** (CTC): tanggal 2024-02-25, 5 races (links: [homepage](https://ctcultra.com) |  [instagram](https://www.instagram.com/ctc.ultra/) | [ITRA](https://itra.run/Races/RaceDetails/88662/))
-- **Dieng Caldera Race** (Dieng Caldera): tanggal 2024-06-09, 4 races (links: [homepage](https://diengcalderarace.com) |  [instagram](https://www.instagram.com/diengcalderarace/) | [ITRA](https://itra.run/Races/RaceDetails/93604/))
-- **Jabar Ultra Trail** (JUT): tanggal 2024-06-09, 2 races (links: [homepage](https://jabarultra.com) |  [instagram](https://www.instagram.com/jabarultra/) | [ITRA](https://itra.run/Races/RaceDetails/92806/))
-- **Mantra 116** (Mantra): tanggal 2024-07-07, 6 races (links: [homepage](https://mantra116.com) |  [instagram](https://www.instagram.com/mantra116.id/) | [ITRA](https://itra.run/Races/RaceDetails/90032/))
-- **Merapi Merbabu De Trail** (MMDT): tanggal 2024-08-04, 3 races (links: [homepage](https://www.merapimerbabudetrail.com) |  [instagram](https://www.instagram.com/merapi_merbabu.detrail/) | [ITRA](https://itra.run/Races/RaceDetails/90917/))
-- **Merbabu Sky Race** (MSR): tanggal 2024-04-28, 5 races (links: [homepage](https://merbabuskyrace.com) |  [instagram](https://www.instagram.com/merbabu_skyrace/) | [ITRA](https://itra.run/Races/RaceDetails/84613/))
-- **Mesastila 100** (MesaStila100): tanggal 2023-10-08, 1 races (links: [homepage](https://mesastila100.com) |  [instagram](https://www.instagram.com/mesastila100/) | [ITRA](https://itra.run/Races/RaceDetails/82926/))
-- **Rinjani 100** (Rinjani100): tanggal 2024-05-26, 5 races (links: [homepage](https://fonesport.id/rinjani100) |  [instagram](https://www.instagram.com/rinjani100.official/) | [ITRA](https://itra.run/Races/RaceDetails/91507/))
-- **Siksorogo Lawu Ultra** (SLU): tanggal 2023-12-03, 5 races (links: [homepage](https://siksorogo.id) |  [instagram](https://www.instagram.com/siksorogolawuultra/) | [ITRA](https://itra.run/Races/RaceDetails/88372/))
-- **Sindoro Sumbing Challenge** (SSC): tanggal 2024-05-05, 3 races (links: [homepage](https://www.sindorosumbingchallenge.com/) |  [instagram](https://www.instagram.com/sindoro_sumbing_challenge/) | [ITRA](https://itra.run/Races/RaceDetails/89387/))
-- **UI Trail Race** (UI Trail): tanggal 2024-08-11, 5 races (links: [homepage](https://uitrailrun.com) |  [instagram](https://www.instagram.com/uitrailrace/) | [ITRA](https://itra.run/Races/RaceDetails/94755/))
-- **Vertical Telomoyo** (V. Telomoyo): tanggal 2023-10-01, 2 races (links: [homepage](https://verticaltelomoyo.com) |  [instagram](https://www.instagram.com/vertical_telomoyo/) | [ITRA](https://itra.run/Races/RaceDetails/85282/))
+1. **Bali Trail Run** (BTR): tanggal 2024-05-12
+    - 5 races, 7 - 85km
+    - sekitar 1494 peserta
+    - links: [homepage](https://balitrailrunning.com) |  [instagram](https://www.instagram.com/balitrailrunning/) | [ITRA](https://itra.run/Races/RaceDetails/89832/)
+2. **Bali Ultra Trail** (BUT): tanggal 2024-08-03
+    - 4 races, 12 - 80km
+    - sekitar 337 peserta
+    - links: [homepage](https://baliultratrail.com) |  [instagram](https://www.instagram.com/baliultratrail.official/) | [ITRA](https://itra.run/Races/RaceDetails/86937/)
+3. **Bromo Marathon** (Bromo Mar): tanggal 2023-09-03
+    - 4 races, 5 - 42km
+    - sekitar 608 peserta
+    - links: [homepage](https://bromomarathon.com) |  [instagram](https://www.instagram.com/bromomarathon/)
+4. **Bromo Tengger Trail Run** (Bromo Tgger): tanggal 2024-07-28
+    - 2 races, 11 - 21km
+    - sekitar 242 peserta
+    - links:  [instagram](https://www.instagram.com/bromo.tenggertrailrun/) | [ITRA](https://itra.run/Races/RaceDetails/93006/)
+5. **Coast to Coast** (CTC): tanggal 2024-02-25
+    - 5 races, 5 - 80km
+    - sekitar 1587 peserta
+    - links: [homepage](https://ctcultra.com) |  [instagram](https://www.instagram.com/ctc.ultra/) | [ITRA](https://itra.run/Races/RaceDetails/88662/)
+6. **Dieng Caldera Race** (Dieng Caldera): tanggal 2024-06-09
+    - 4 races, 10 - 75km
+    - sekitar 650 peserta
+    - links: [homepage](https://diengcalderarace.com) |  [instagram](https://www.instagram.com/diengcalderarace/) | [ITRA](https://itra.run/Races/RaceDetails/93604/)
+7. **Jabar Ultra Trail** (JUT): tanggal 2024-06-09
+    - 2 races, 22 - 55km
+    - sekitar 159 peserta
+    - links: [homepage](https://jabarultra.com) |  [instagram](https://www.instagram.com/jabarultra/) | [ITRA](https://itra.run/Races/RaceDetails/92806/)
+8. **Mantra 116** (Mantra): tanggal 2024-07-07
+    - 6 races, 10 - 116km
+    - sekitar 1505 peserta
+    - links: [homepage](https://mantra116.com) |  [instagram](https://www.instagram.com/mantra116.id/) | [ITRA](https://itra.run/Races/RaceDetails/90032/)
+9. **Merapi Merbabu De Trail** (MMDT): tanggal 2024-08-04
+    - 3 races, 5 - 20km
+    - sekitar 436 peserta
+    - links: [homepage](https://www.merapimerbabudetrail.com) |  [instagram](https://www.instagram.com/merapi_merbabu.detrail/) | [ITRA](https://itra.run/Races/RaceDetails/90917/)
+10. **Merbabu Sky Race** (MSR): tanggal 2024-04-28
+    - 5 races, 5 - 50km
+    - sekitar 1434 peserta
+    - links: [homepage](https://merbabuskyrace.com) |  [instagram](https://www.instagram.com/merbabu_skyrace/) | [ITRA](https://itra.run/Races/RaceDetails/84613/)
+11. **Mesastila 100** (MesaStila100): tanggal 2023-10-08
+    - 1 races, 21 - 21km
+    - sekitar 73 peserta
+    - links: [homepage](https://mesastila100.com) |  [instagram](https://www.instagram.com/mesastila100/) | [ITRA](https://itra.run/Races/RaceDetails/82926/)
+12. **Rinjani 100** (Rinjani100): tanggal 2024-05-26
+    - 5 races, 27 - 162km
+    - sekitar 814 peserta
+    - links: [homepage](https://fonesport.id/rinjani100) |  [instagram](https://www.instagram.com/rinjani100.official/) | [ITRA](https://itra.run/Races/RaceDetails/91507/)
+13. **Siksorogo Lawu Ultra** (SLU): tanggal 2023-12-03
+    - 5 races, 7 - 80km
+    - sekitar 2604 peserta
+    - links: [homepage](https://siksorogo.id) |  [instagram](https://www.instagram.com/siksorogolawuultra/) | [ITRA](https://itra.run/Races/RaceDetails/88372/)
+14. **Sindoro Sumbing Challenge** (SSC): tanggal 2024-05-05
+    - 3 races, 20 - 35km
+    - sekitar 208 peserta
+    - links: [homepage](https://www.sindorosumbingchallenge.com/) |  [instagram](https://www.instagram.com/sindoro_sumbing_challenge/) | [ITRA](https://itra.run/Races/RaceDetails/89387/)
+15. **UI Trail Race** (UI Trail): tanggal 2024-08-11
+    - 5 races, 5 - 80km
+    - sekitar 660 peserta
+    - links: [homepage](https://uitrailrun.com) |  [instagram](https://www.instagram.com/uitrailrace/) | [ITRA](https://itra.run/Races/RaceDetails/94755/)
+16. **Vertical Telomoyo** (V. Telomoyo): tanggal 2023-10-01
+    - 2 races, 7 - 27km
+    - sekitar 132 peserta
+    - links: [homepage](https://verticaltelomoyo.com) |  [instagram](https://www.instagram.com/vertical_telomoyo/) | [ITRA](https://itra.run/Races/RaceDetails/85282/)
 
 
 Enjoy dan fork/PR ya.
