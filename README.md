@@ -67,27 +67,31 @@ Event-event yg terdata:
     - 5 lomba: [5](#MSR5), [10](#MSR10), [20](#MSR20), [40](#MSR40), [50](#MSR50) km
     - diikuti sekitar 1434 peserta
     - links: [homepage](https://merbabuskyrace.com) |  [instagram](https://www.instagram.com/merbabu_skyrace/) | [ITRA](https://itra.run/Races/RaceDetails/84613/)
-13. **Mesastila 100** (MesaStila100): tanggal 2023-10-08
+13. **Merumatta Coast Trail** (Merumatta): tanggal 2024-02-25
+    - 4 lomba: [8](#Merumatta8), [15](#Merumatta15), [25](#Merumatta25), [50](#Merumatta50) km
+    - diikuti sekitar 488 peserta
+    - links: [homepage](https://merumattacoasttrail.com) |  [instagram](https://www.instagram.com/merumatta_coasttrail/) | [ITRA](https://itra.run/Races/RaceDetails/83741/)
+14. **Mesastila 100** (MesaStila100): tanggal 2023-10-08
     - 1 lomba: [21](#MesaStila10021) km
     - diikuti sekitar 73 peserta
     - links: [homepage](https://mesastila100.com) |  [instagram](https://www.instagram.com/mesastila100/) | [ITRA](https://itra.run/Races/RaceDetails/82926/)
-14. **Rinjani 100** (Rinjani100): tanggal 2024-05-26
+15. **Rinjani 100** (Rinjani100): tanggal 2024-05-26
     - 5 lomba: [27](#Rinjani10027), [36](#Rinjani10036), [60](#Rinjani10060), [100](#Rinjani100100), [162](#Rinjani100162) km
     - diikuti sekitar 814 peserta
     - links: [homepage](https://fonesport.id/rinjani100) |  [instagram](https://www.instagram.com/rinjani100.official/) | [ITRA](https://itra.run/Races/RaceDetails/91507/)
-15. **Siksorogo Lawu Ultra** (SLU): tanggal 2023-12-03
+16. **Siksorogo Lawu Ultra** (SLU): tanggal 2023-12-03
     - 5 lomba: [7](#SLU7), [15](#SLU15), [30](#SLU30), [50](#SLU50), [80](#SLU80) km
     - diikuti sekitar 2604 peserta
     - links: [homepage](https://siksorogo.id) |  [instagram](https://www.instagram.com/siksorogolawuultra/) | [ITRA](https://itra.run/Races/RaceDetails/88372/)
-16. **Sindoro Sumbing Challenge** (SSC): tanggal 2024-05-05
+17. **Sindoro Sumbing Challenge** (SSC): tanggal 2024-05-05
     - 3 lomba: [20](#SSC20), [20](#SSC20), [35](#SSC35) km
     - diikuti sekitar 208 peserta
     - links: [homepage](https://www.sindorosumbingchallenge.com/) |  [instagram](https://www.instagram.com/sindoro_sumbing_challenge/) | [ITRA](https://itra.run/Races/RaceDetails/89387/)
-17. **UI Trail Race** (UI Trail): tanggal 2024-08-11
+18. **UI Trail Race** (UI Trail): tanggal 2024-08-11
     - 5 lomba: [5](#UITrail5), [10](#UITrail10), [20](#UITrail20), [40](#UITrail40), [80](#UITrail80) km
     - diikuti sekitar 660 peserta
     - links: [homepage](https://uitrailrun.com) |  [instagram](https://www.instagram.com/uitrailrace/) | [ITRA](https://itra.run/Races/RaceDetails/94755/)
-18. **Vertical Telomoyo** (V. Telomoyo): tanggal 2023-10-01
+19. **Vertical Telomoyo** (V. Telomoyo): tanggal 2023-10-01
     - 2 lomba: [7](#VTelomoyo7), [27](#VTelomoyo27) km
     - diikuti sekitar 132 peserta
     - links: [homepage](https://verticaltelomoyo.com) |  [instagram](https://www.instagram.com/vertical_telomoyo/) | [ITRA](https://itra.run/Races/RaceDetails/85282/)
@@ -106,6 +110,7 @@ Enjoy dan fork/PR ya.
 | <A name="UITrail5"></A> [UI Trail](https://www.instagram.com/uitrailrace/) | 5 | 180 | 208 | 1.2 / 2.4 | 1 (0%) |  | 3 | 130 |
 | <A name="BromoMar10"></A> [Bromo Mar](https://www.instagram.com/bromomarathon/) | 10 | 426 | 192 | 1.7 / 2.7 | 5 (3%) |  |  |  |
 | <A name="SLU7"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 7 | 400 | 723 | 1.7 / 3.9 |      |  |  |  |
+| <A name="Merumatta8"></A> [Merumatta](https://www.instagram.com/merumatta_coasttrail/) | 8 | 380 | 119 | 1.8 / 2.5 | 51 (30%) |  <img src="images/th-ITRA0.png" height="16"> | 5 | 190 |
 | <A name="DiengCaldera10"></A> [Dieng Caldera](https://www.instagram.com/diengcalderarace/) | 10 | 495 | 246 | 1.9 / 2.8 |      |  <img src="images/th-ITRA0.png" height="16"> | 5 | 130 |
 
 ![stat](images/0-2h.png "Statistik")
@@ -122,6 +127,7 @@ Enjoy dan fork/PR ya.
 | <A name="CTC15"></A> [CTC](https://www.instagram.com/ctc.ultra/) | 15 | 300 | 1100 | 3.1 / 4.0 |      |  <img src="images/th-ITRA0.png" height="16"> | 2 | 160 |
 | <A name="MSR10"></A> [MSR](https://www.instagram.com/merbabu_skyrace/) | 10 | 810 | 295 | 3.3 / 4.0 | 98 (25%) |  <img src="images/th-ITRA0.png" height="16"> | 9 | 210 |
 | <A name="SLU15"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 15 | 1200 | 932 | 3.5 / 5.9 |      |  <img src="images/th-ITRA0.png" height="16"> | 6 |  |
+| <A name="Merumatta15"></A> [Merumatta](https://www.instagram.com/merumatta_coasttrail/) | 15 | 870 | 120 | 3.7 / 4.5 | 55 (31%) |  <img src="images/th-ITRA0.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 5 | 240 |
 | <A name="UITrail10"></A> [UI Trail](https://www.instagram.com/uitrailrace/) | 10 | 650 | 198 | 3.7 / 5.7 | 14 (7%) |  <img src="images/th-ITRA0.png" height="16"> | 6 | 130 |
 | <A name="DiengTrailRun12"></A> [Dieng Trail Run](https://www.instagram.com/diengtrailrun/) | 12 | 920 | 283 | 3.8 / 5.0 | 46 (14%) |  <img src="images/th-ITRA0.png" height="16"> | 6 | 190 |
 | <A name="BromoMar21"></A> [Bromo Mar](https://www.instagram.com/bromomarathon/) | 21 | 977 | 153 | 3.8 / 6.8 | 4 (3%) |  |  |  |
@@ -140,6 +146,7 @@ Enjoy dan fork/PR ya.
 | <A name="MesaStila10021"></A> [MesaStila100](https://www.instagram.com/mesastila100/) | 21 | 1230 | 72 | 5.4 / 8.6 | 1 (1%) |  <img src="images/th-ITRA0.png" height="16"> | 6 | 220 |
 | <A name="DiengCaldera21"></A> [Dieng Caldera](https://www.instagram.com/diengcalderarace/) | 21 | 1185 | 264 | 5.8 / 7.9 | 4 (1%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 6 | 190 |
 | <A name="BDG10027"></A> [BDG100](https://www.instagram.com/bdg100_official/) | 27 | 1265 | 263 | 5.9 / 8.0 | 11 (4%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 5 | 10 |
+| <A name="Merumatta25"></A> [Merumatta](https://www.instagram.com/merumatta_coasttrail/) | 25 | 1620 | 86 | 6.0 / 7.4 | 33 (28%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 7 | 230 |
 
 ![stat](images/4-6h.png "Statistik")
 
@@ -178,6 +185,7 @@ Enjoy dan fork/PR ya.
 
 | Event | Jarak (km) | Eg (m) | Finish ers | Med / Max (jam) | DNF (Rate) | Kualif. | Mtn Lvl | Fns Lvl |
 |-------|------------|--------|-----------|-----------------|------------|---------|---------|---------|
+| <A name="Merumatta50"></A> [Merumatta](https://www.instagram.com/merumatta_coasttrail/) | 50 | 2830 | 14 | 12.2 / 14.5 | 10 (42%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 7 | 250 |
 | <A name="Mantra38"></A> [Mantra](https://www.instagram.com/mantra116.id/) | 38 | 2750 | 184 | 12.5 / 15.0 | 54 (23%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 9 | 220 |
 | <A name="SSC35"></A> [SSC](https://www.instagram.com/sindoro_sumbing_challenge/) | 35 | 4046 | 47 | 12.7 / 18.4 | 11 (19%) |  <img src="images/th-ITRA3.png" height="16"> | 12 | 180 |
 | <A name="Rinjani10036"></A> [Rinjani100](https://www.instagram.com/rinjani100.official/) | 36 | 3179 | 322 | 12.8 / 15.0 | 118 (27%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 11 |  |
