@@ -50,7 +50,7 @@ Event-event yg terdata:
     - links: [homepage](https://diengcalderarace.com) |  [instagram](https://www.instagram.com/diengcalderarace/) | [ITRA](https://itra.run/Races/RaceDetails/93604/)
 8. **Dieng Trail Run** (Dieng Trail Run): tanggal 2024-09-22
     - 4 lomba: [12](#DiengTrailRun12), [25](#DiengTrailRun25), [63](#DiengTrailRun63), [100](#DiengTrailRun100) km
-    - diikuti sekitar 623 peserta
+    - diikuti sekitar 594 peserta
     - links: [homepage](https://diengtrailrun.id) |  [instagram](https://www.instagram.com/diengtrailrun/) | [ITRA](https://itra.run/Races/RaceDetails/95482/)
 9. **Jabar Ultra Trail** (JUT): tanggal 2024-06-09
     - 2 lomba: [22](#JUT22), [55](#JUT55) km
@@ -209,7 +209,6 @@ Enjoy dan fork/PR ya.
 | <A name="BTR55"></A> [BTR](https://www.instagram.com/balitrailrunning/) | 55 | 3778 | 107 | 15.5 / 18.0 | 24 (18%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 9 | 270 |
 | <A name="BDG10064"></A> [BDG100](https://www.instagram.com/bdg100_official/) | 64 | 3482 | 113 | 15.7 / 17.9 | 29 (20%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 6 | 10 |
 | <A name="DiengTrailRun63"></A> [Dieng Trail Run](https://www.instagram.com/diengtrailrun/) | 63 | 3807 | 27 | 15.8 / 18.0 | 11 (29%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 7 | 300 |
-| <A name="DiengTrailRun100"></A> [Dieng Trail Run](https://www.instagram.com/diengtrailrun/) | 100 | 6800 | 27 | 15.8 / 18.0 | 11 (29%) |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 9 | 390 |
 | <A name="CTC80"></A> [CTC](https://www.instagram.com/ctc.ultra/) | 80 | 2550 | 64 | 15.9 / 18.0 |      |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 3 | 370 |
 
 ![stat](images/12-16h.png "Statistik")
@@ -230,6 +229,7 @@ Enjoy dan fork/PR ya.
 | <A name="BTR85"></A> [BTR](https://www.instagram.com/balitrailrunning/) | 85 | 5250 | 30 | 20.4 / 25.0 | 7 (19%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 7 | 320 |
 | <A name="JUT55"></A> [JUT](https://www.instagram.com/jabarultra/) | 55 | 6010 | 7 | 21.2 / 23.4 | 12 (63%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 12 | 220 |
 | <A name="UITrail80"></A> [UI Trail](https://www.instagram.com/uitrailrace/) | 80 | 4800 | 11 | 21.2 / 23.7 | 18 (62%) |  <img src="images/th-ITRA4.png" height="16"> | 8 | 320 |
+| <A name="DiengTrailRun100"></A> [Dieng Trail Run](https://www.instagram.com/diengtrailrun/) | 100 | 6800 | 3 | 22.7 / 27.2 | 6 (67%) |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 9 | 390 |
 
 ![stat](images/16-24h.png "Statistik")
 
