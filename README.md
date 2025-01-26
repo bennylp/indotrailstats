@@ -94,7 +94,7 @@ Event-event yg terdata:
     - links: [homepage](https://siksorogo.id) |  [instagram](https://www.instagram.com/siksorogolawuultra/) | [ITRA](https://itra.run/Races/RaceDetails/88372/)
 19. **Siksorogo Lawu Ultra** (SLU): tanggal 2024-12-01
     - 6 lomba: [7](#SLU7), [15](#SLU15), [30](#SLU30), [50](#SLU50), [80](#SLU80), [120](#SLU120) km
-    - diikuti sekitar 3499 peserta
+    - diikuti sekitar 4342 peserta
     - links: [homepage](https://siksorogo.id) |  [instagram](https://www.instagram.com/siksorogolawuultra/) | [ITRA](https://itra.run/Races/RaceDetails/96411/)
 20. **Sindoro Sumbing Challenge** (SSC): tanggal 2024-05-05
     - 3 lomba: [20](#SSC20), [20](#SSC20), [35](#SSC35) km
@@ -143,7 +143,7 @@ Enjoy dan fork/PR ya.
 | <A name="SLU15"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2023 | 15 | 1200 | 932 | 3.5 / 5.9 |      |  <img src="images/th-ITRA0.png" height="16"> | 6 |  |
 | <A name="Merumatta15"></A> [Merumatta](https://www.instagram.com/merumatta_coasttrail/) | 2024 | 15 | 870 | 120 | 3.7 / 4.5 | 55 (31%) |  <img src="images/th-ITRA0.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 5 | 240 |
 | <A name="UITrail10"></A> [UI Trail](https://www.instagram.com/uitrailrace/) | 2024 | 10 | 650 | 198 | 3.7 / 5.7 | 14 (7%) |  <img src="images/th-ITRA0.png" height="16"> | 6 | 130 |
-| <A name="SLU15"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 15 | 910 | 1404 | 3.8 / 6.0 |      |  <img src="images/th-ITRA0.png" height="16"> | 6 |  |
+| <A name="SLU15"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 15 | 910 | 1435 | 3.8 / 6.0 | 170 (11%) |  <img src="images/th-ITRA0.png" height="16"> | 6 |  |
 | <A name="DiengTrailRun12"></A> [Dieng Trail Run](https://www.instagram.com/diengtrailrun/) | 2024 | 12 | 920 | 283 | 3.8 / 5.0 | 46 (14%) |  <img src="images/th-ITRA0.png" height="16"> | 6 | 190 |
 | <A name="BromoMar21"></A> [Bromo Mar](https://www.instagram.com/bromomarathon/) | 2023 | 21 | 977 | 153 | 3.8 / 6.8 | 4 (3%) |  |  |  |
 | <A name="Mantra17"></A> [Mantra](https://www.instagram.com/mantra116.id/) | 2024 | 17 | 1000 | 265 | 3.9 / 7.6 | 49 (16%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 6 | 220 |
@@ -178,7 +178,7 @@ Enjoy dan fork/PR ya.
 | <A name="BromoMar42"></A> [Bromo Mar](https://www.instagram.com/bromomarathon/) | 2023 | 42 | 1930 | 38 | 7.0 / 8.5 | 9 (19%) |  |  |  |
 | <A name="BUT25"></A> [BUT](https://www.instagram.com/baliultratrail.official/) | 2024 | 25 | 1650 | 105 | 7.3 / 9.9 | 30 (22%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 7 | 190 |
 | <A name="SSC20"></A> [SSC](https://www.instagram.com/sindoro_sumbing_challenge/) | 2024 | 20 | 2076 | 65 | 7.4 / 9.0 | 5 (7%) |  <img src="images/th-ITRA1.png" height="16"> | 12 | 190 |
-| <A name="SLU30"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 30 | 1923 | 1052 | 7.6 / 10.0 |      |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 7 | 220 |
+| <A name="SLU30"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 30 | 1923 | 1068 | 7.6 / 10.0 | 154 (13%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 7 | 220 |
 | <A name="SLU30"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2023 | 30 | 1800 | 645 | 7.6 / 10.0 |      |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 7 | 210 |
 | <A name="MSR20"></A> [MSR](https://www.instagram.com/merbabu_skyrace/) | 2024 | 20 | 1830 | 532 | 7.6 / 9.0 | 149 (22%) |  <img src="images/th-ITRA1.png" height="16"> <img src="images/th-UTMB20K.png" height="16"> | 12 |  |
 | <A name="SSC20"></A> [SSC](https://www.instagram.com/sindoro_sumbing_challenge/) | 2024 | 20 | 1963 | 76 | 7.7 / 8.9 | 4 (5%) |  <img src="images/th-ITRA1.png" height="16"> | 12 | 190 |
@@ -209,7 +209,7 @@ Enjoy dan fork/PR ya.
 | <A name="SSC35"></A> [SSC](https://www.instagram.com/sindoro_sumbing_challenge/) | 2024 | 35 | 4046 | 47 | 12.7 / 18.4 | 11 (19%) |  <img src="images/th-ITRA3.png" height="16"> | 12 | 180 |
 | <A name="Rinjani10036"></A> [Rinjani100](https://www.instagram.com/rinjani100.official/) | 2024 | 36 | 3179 | 322 | 12.8 / 15.0 | 118 (27%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 11 |  |
 | <A name="Mantra34"></A> [Mantra](https://www.instagram.com/mantra116.id/) | 2024 | 34 | 3050 | 193 | 12.9 / 16.2 | 96 (33%) |  <img src="images/th-ITRA2.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 12 | 200 |
-| <A name="SLU50"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 50 | 3599 | 346 | 14.2 / 17.0 |      |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 8 | 280 |
+| <A name="SLU50"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 50 | 3599 | 347 | 14.2 / 17.0 | 338 (49%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 8 | 280 |
 | <A name="SLU50"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2023 | 50 | 3800 | 231 | 14.2 / 16.8 |      |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 8 | 280 |
 | <A name="BTR55"></A> [BTR](https://www.instagram.com/balitrailrunning/) | 2024 | 55 | 3778 | 107 | 15.5 / 18.0 | 24 (18%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 9 | 270 |
 | <A name="BDG10064"></A> [BDG100](https://www.instagram.com/bdg100_official/) | 2024 | 64 | 3482 | 113 | 15.7 / 17.9 | 29 (20%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB50K.png" height="16"> | 6 | 10 |
@@ -231,7 +231,7 @@ Enjoy dan fork/PR ya.
 | <A name="MSR50"></A> [MSR](https://www.instagram.com/merbabu_skyrace/) | 2024 | 50 | 5970 | 24 | 19.5 / 23.6 | 24 (50%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 12 | 220 |
 | <A name="SLU80"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2023 | 80 | 5400 | 73 | 19.5 / 22.9 |      |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 9 | 290 |
 | <A name="Mantra68"></A> [Mantra](https://www.instagram.com/mantra116.id/) | 2024 | 68 | 5000 | 104 | 19.5 / 22.1 | 80 (43%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 10 | 280 |
-| <A name="SLU80"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 80 | 5195 | 50 | 20.3 / 23.8 |      |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 8 | 330 |
+| <A name="SLU80"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 80 | 5195 | 51 | 20.4 / 23.8 | 94 (65%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 8 | 330 |
 | <A name="BTR85"></A> [BTR](https://www.instagram.com/balitrailrunning/) | 2024 | 85 | 5250 | 30 | 20.4 / 25.0 | 7 (19%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 7 | 320 |
 | <A name="JUT55"></A> [JUT](https://www.instagram.com/jabarultra/) | 2024 | 55 | 6010 | 7 | 21.2 / 23.4 | 12 (63%) |  <img src="images/th-ITRA3.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 12 | 220 |
 | <A name="UITrail80"></A> [UI Trail](https://www.instagram.com/uitrailrace/) | 2024 | 80 | 4800 | 11 | 21.2 / 23.7 | 18 (62%) |  <img src="images/th-ITRA4.png" height="16"> | 8 | 320 |
@@ -246,7 +246,7 @@ Enjoy dan fork/PR ya.
 | <A name="BTS100102"></A> [BTS100](https://www.instagram.com/btsultra/) | 2024 | 102 | 4840 | 64 | 27.3 / 31.7 | 11 (15%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 5 | 310 |
 | <A name="BDG10098"></A> [BDG100](https://www.instagram.com/bdg100_official/) | 2024 | 98 | 5678 | 27 | 28.2 / 31.7 | 18 (40%) |  <img src="images/th-ITRA4.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 7 | 10 |
 | <A name="Mantra116"></A> [Mantra](https://www.instagram.com/mantra116.id/) | 2024 | 116 | 7400 | 59 | 29.8 / 33.3 | 51 (46%) |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100M.png" height="16"> | 9 | 380 |
-| <A name="SLU120"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 120 | 8385 | 6 | 31.6 / 34.3 |      |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 10 | 400 |
+| <A name="SLU120"></A> [SLU](https://www.instagram.com/siksorogolawuultra/) | 2024 | 120 | 8385 | 6 | 31.6 / 34.3 | 38 (86%) |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100K.png" height="16"> | 10 | 400 |
 | <A name="Rinjani100100"></A> [Rinjani100](https://www.instagram.com/rinjani100.official/) | 2024 | 100 | 9194 | 13 | 33.8 / 35.4 | 71 (85%) |  <img src="images/th-ITRA5.png" height="16"> <img src="images/th-UTMB100M.png" height="16"> | 12 | 350 |
 | <A name="BTS100170"></A> [BTS100](https://www.instagram.com/btsultra/) | 2024 | 170 | 8340 | 13 | 39.2 / 41.3 | 9 (41%) |  <img src="images/th-ITRA6.png" height="16"> <img src="images/th-UTMB100M.png" height="16"> | 6 | 420 |
 | <A name="BDG100161"></A> [BDG100](https://www.instagram.com/bdg100_official/) | 2024 | 161 | 8995 | 7 | 43.8 / 44.0 | 12 (63%) |  <img src="images/th-ITRA6.png" height="16"> <img src="images/th-UTMB100M.png" height="16"> | 8 | 10 |
